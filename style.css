@@ -1,0 +1,14 @@
+/* Custom styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+section {
+  padding: 60px 0;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
